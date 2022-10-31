@@ -1,6 +1,6 @@
 {
-  "name": "insomnia-plugin-guid",
-  "version": "0.1.0",
+  "name": "insomnia-plugin-guid-generator",
+  "version": "0.1.2",
   "main": "app.js",
   "insomnia": {
     "name": "guid",

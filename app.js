@@ -11,7 +11,7 @@ module.exports.templateTags = [
   {
     displayName: "GUID",
     name: "guid",
-    description: "Generate a GUID",
+    description: "Generate a GUID Generator",
     args: [],
     run: () => uuidv4(),
   },

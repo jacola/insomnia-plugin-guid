@@ -1,4 +1,4 @@
-# Insomnia Plugin GUID
+# Insomnia Plugin - GUID Generator
 
 ===
 
