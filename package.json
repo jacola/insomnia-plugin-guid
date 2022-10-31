@@ -1,0 +1,14 @@
+{
+  "name": "insomnia-plugin-guid",
+  "version": "0.1.0",
+  "main": "app.js",
+  "insomnia": {
+    "name": "guid",
+    "displayName": "GUID Plugin",
+    "description": "GUID plugin for Insomnia",
+    "publisher": {
+      "name": "Jacques Lalancette"
+    },
+    "unlisted": false
+  }
+}
